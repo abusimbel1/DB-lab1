@@ -3,7 +3,7 @@
 
 ### Документи
 
-[Завдання](docs/Lab1.pdf)  
+
 [Звіт](docs/Lab1_Oleksandr_Hrytsiuk.pdf)
 
 ### 4 варіант
